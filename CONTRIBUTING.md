@@ -17,7 +17,7 @@ Thanks for your interest in contributing to aerynOS.
 
 ## Documentation
 
-- [aerynos.dev](https://aerynos.dev/) - Documentation about the ideas behind the OS, the packaging process, and other core concepts.
+- [aerynos.com](https://aerynos.com/aerynos) - Documentation about the ideas behind the OS, the packaging process, and other core concepts.
 
 ## Chat
 
